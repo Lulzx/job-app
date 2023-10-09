@@ -12,7 +12,6 @@
   </template>
 
   <script setup>
-  // import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/vue/20/solid'
 
   const items = [
     { id: 1, title: 'Back End Developer', department: 'Engineering', type: 'Full-time', location: 'Remote' },
